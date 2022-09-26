@@ -1,0 +1,15 @@
+const usernames =  [
+'SALKOBRAT',
+'DNPTHREE',
+'DNP3',
+'PANCAKESWAPOFFICIAL',
+'PANCAKESWAP',
+'COLLAB.BOT',
+'COLLAB.LAND',
+'HIDRI',
+'SARAGENN',
+'MIKEZGAMING',
+'TAKMA'
+];
+
+export default usernames;
